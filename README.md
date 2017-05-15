@@ -12,3 +12,4 @@
 7. [Shell系列教程](https://github.com/52fhy/shell-book)
 
 8. [python中十个常见的错误](http://www.imooc.com/article/2841)
+9. [python中type和__metaclass__详解](http://blog.jobbole.com/21351/)
