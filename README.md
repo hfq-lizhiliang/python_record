@@ -6,3 +6,9 @@
 
 3. [一起写文章, 一起看文章. 这是个Python技术文章的收集，翻译的Git源的doc.](http://pyzh.readthedocs.io/en/latest/index.html) 
 
+4. [shell示例](http://www.jellythink.com/archives/699)
+5. [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
+6. [Shell十三问](https://github.com/wzb56/13_questions_of_shell)
+7. [Shell系列教程](https://github.com/52fhy/shell-book)
+
+8. [python中十个常见的错误](http://www.imooc.com/article/2841)
