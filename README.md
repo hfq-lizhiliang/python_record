@@ -14,3 +14,10 @@
 8. [python中十个常见的错误](http://www.imooc.com/article/2841)
 9. [python中type和__metaclass__详解](http://blog.jobbole.com/21351/)
 10. [代码这样写更优雅(Python 版)](http://python.jobbole.com/87851/)
+11. [Instagram](http://python.jobbole.com/87814/)
+
+
+# 知识点
+
+- deque 双向队列的数据结构，删除元素和插入元素会很快
+from collections import deque
