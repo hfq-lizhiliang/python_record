@@ -21,3 +21,6 @@
 
 - deque 双向队列的数据结构，删除元素和插入元素会很快
 from collections import deque
+
+# supervisor相关
+- [supervisor教程博客](http://liyangliang.me/posts/2015/06/using-supervisor/)
