@@ -24,3 +24,15 @@ from collections import deque
 
 # supervisor相关
 - [supervisor教程博客](http://liyangliang.me/posts/2015/06/using-supervisor/)
+
+# 魔法方法 __getattr__  __setattr__ __getattribute__ 的区分
+- [简单易懂上面的三种魔法方法](http://blog.csdn.net/yugongpeng_blog/article/details/45868909)
+
+# pip临时指定安装源
+- [pip指定安装软件源地址，增快下载速度](http://www.cnblogs.com/microman/p/6107879.html)
+
+# 如何在zsh和bash之间通过命令进行切换
+- [zsh和bash切换](https://stackoverflow.com/questions/26862536/what-is-zsh-exec-format-error-in-redhat)
+
+# 装饰器讲解示例
+- [装饰器讲解](https://eastlakeside.gitbooks.io/interpy-zh/content/decorators/nest_deco_in_func.html)
